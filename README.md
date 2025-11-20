@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Kabir, and I'm passionate about applying AI and ML within full-stack solutions to solve real-world problems. 
 <!--
 **kabirmoghe/kabirmoghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
