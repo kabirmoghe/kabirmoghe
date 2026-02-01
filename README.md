@@ -2,7 +2,7 @@
 
 #### Hi there! 👋 
 
-I'm Kabir, and I'm passionate about using applied AI/ML within full-stack solutions to solve real-world problems. 
+I'm Kabir, and I'm passionate about applying full-stack AI/ML to solve real-world problems. 
 
 Currently, I'm at Dartmouth studying CS & Math. On the side, I love to:
 
